@@ -22,4 +22,33 @@ The dashboard is built in **Power BI** and structured to support commercial, str
 - Real food consumption continues to grow but at a **slowing rate (~2% YoY)**.
 - Inflation accounts for an increasing share of nominal growth.
 - Sugar and processed food categories show **disproportionate resilience**.
-- Mid-le
+- Mid-level COICOP food categories drive most FMCG consumption.
+
+---
+
+## 🧰 Tools & Skills Demonstrated
+- Power BI (Data modelling, DAX, storytelling)
+- Economic measures: **CP, CVM, IDEF**
+- Time-series analysis
+- FMCG category performance analysis
+- Data storytelling for non-technical stakeholders
+
+---
+
+## 📂 Repository Contents
+- `/dashboard/` – Power BI (.pbix) file  
+- `/images/` – Dashboard screenshots  
+- `/docs/` – Methodology & assumptions  
+
+---
+
+## 🔗 Data Source
+- UK Office for National Statistics – Consumer Trends
+
+---
+
+## 📈 Use Cases
+- FMCG category management
+- Retail demand forecasting
+- Pricing & inflation analysis
+- Commercial strategy & planning
